@@ -1,0 +1,2 @@
+Hello world This is test file of Alimzhanov Altair for task 3 Bye world
+

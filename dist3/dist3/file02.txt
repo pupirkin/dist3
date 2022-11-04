@@ -1,0 +1,1 @@
+Hello hadoop This is test file created by Alimzhanov Altair for task 3 test Bye haoop
